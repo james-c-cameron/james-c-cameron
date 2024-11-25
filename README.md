@@ -1,5 +1,5 @@
-- 👋 Hi, I'm James Cameron. I am a mathematician most recently based at the University of Utah.
-- 🌱 I’m currently interested in data science and machine learning, computational strategies for studying representation theory and commutative algebra, and topological data analysis.
+- 👋 Hi, I'm James Cameron. I am a data analyst and mathematician.
+- 🌱 I’m currently interested in machine learning, computational strategies for studying representation theory and commutative algebra, and topological data analysis.
 - - 👀 Mathematically I am interested in algebraic topology, representation theory, and commutative algebra, especially the tensor triangulated aspects of these.
 
 
